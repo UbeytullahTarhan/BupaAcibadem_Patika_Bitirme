@@ -7,6 +7,35 @@ Bu katmanlar tek bir WebApi ile işlem yürütüyor
 
 https://user-images.githubusercontent.com/86763468/153768136-59a21ad8-8239-4f49-89be-4c2268b5e73c.mp4
 
+
+
+https://user-images.githubusercontent.com/86763468/153769061-f4f9a510-ed65-441d-9f23-73c984f9a705.mp4
+
+
+
+
+https://user-images.githubusercontent.com/86763468/153769072-7df6aa52-998c-4312-96ef-27743fc9bd64.mp4
+
+
+
+
+https://user-images.githubusercontent.com/86763468/153769083-6fcb7ffd-1c13-4b5c-a512-5032be8704c9.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/86763468/153769087-76f8be8d-d577-4299-adfb-c67c53775057.mp4
+
+
+
+
+
+
+https://user-images.githubusercontent.com/86763468/153769094-f2f2be3e-350d-4c01-8fb2-7338557b55bd.mp4
+
+
+
 ![Ekran1](https://user-images.githubusercontent.com/86763468/153768179-f3e86b43-9d5c-4446-bfd4-0166e61bb034.PNG)
 
 ![Ekran Alıntısı2](https://user-images.githubusercontent.com/86763468/153768182-de249900-864d-4e44-b80e-ba1f6576d3b0.PNG)
