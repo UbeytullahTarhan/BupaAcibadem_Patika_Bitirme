@@ -1,0 +1,12 @@
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\bin\Debug\net5.0\BupaAcibadem.Entity.deps.json
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\bin\Debug\net5.0\BupaAcibadem.Entity.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\bin\Debug\net5.0\ref\BupaAcibadem.Entity.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\bin\Debug\net5.0\BupaAcibadem.Entity.pdb
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.csproj.AssemblyReference.cache
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.AssemblyInfoInputs.cache
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.AssemblyInfo.cs
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\ref\BupaAcibadem.Entity.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Entity\obj\Debug\net5.0\BupaAcibadem.Entity.pdb

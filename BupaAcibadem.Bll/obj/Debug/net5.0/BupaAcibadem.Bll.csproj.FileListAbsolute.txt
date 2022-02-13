@@ -1,0 +1,17 @@
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Bll.deps.json
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Bll.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\ref\BupaAcibadem.Bll.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Bll.pdb
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Dal.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Dal.pdb
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.csproj.AssemblyReference.cache
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.AssemblyInfoInputs.cache
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.AssemblyInfo.cs
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.csproj.CopyComplete
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\ref\BupaAcibadem.Bll.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\obj\Debug\net5.0\BupaAcibadem.Bll.pdb
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Entity.dll
+C:\Users\Qebqıbo\source\repos\BupaAcibadem\BupaAcibadem.Bll\bin\Debug\net5.0\BupaAcibadem.Entity.pdb
