@@ -1,4 +1,4 @@
-Projede Frontend ASP.NET Web Form ile yapıldı. Backend ise .Net ile geliştirildi
+Projede Frontend ASP.NET Web Form ile yapıldı. Backend ise .Net ile geliştirildi veritabanı olarak MSSQL kullanıldı Veri erişimi için ise ADO.Net kullanıldı
 Projede iki ayrı fronend bulunmakta biri admin ve biri de Sigorta işlemleri yapılan katman
 Bu katmanlar tek bir WebApi ile işlem yürütüyor 
 
