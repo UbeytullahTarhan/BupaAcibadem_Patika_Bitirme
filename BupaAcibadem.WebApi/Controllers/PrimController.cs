@@ -14,8 +14,7 @@ namespace BupaAcibadem.WebApi.Controllers
     {
         PrimBll bll;
         Prim pm;
-        //hata yönetimi hallet
-        //Ok dönerken eğer olumlu değilse badrequest veya 404 vb dön
+       
         [HttpGet("Find")]
         public IActionResult Find(int id)
         {
@@ -31,7 +30,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -56,7 +55,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -82,7 +81,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -107,7 +106,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -118,7 +117,7 @@ namespace BupaAcibadem.WebApi.Controllers
         }
 
         [HttpPut("Update")]
-        ///içiboş
+       
         public IActionResult Update(Prim pm)
         {
 
@@ -132,7 +131,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -159,14 +158,15 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
+
             }
 
 
 
 
 
-            ///return bad request
+            
         }
     }
 }

@@ -14,8 +14,7 @@ namespace BupaAcibadem.WebApi.Controllers
     {
         SigortaEttirenBll bll;
         SigortaEttiren sm;
-        //hata yönetimi hallet
-        //Ok dönerken eğer olumlu değilse badrequest veya 404 vb dön
+        
         [HttpGet("Find")]
         public IActionResult Find(int id ,string ? tc)
         {
@@ -31,7 +30,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
             
             
@@ -56,7 +55,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -81,7 +80,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -92,7 +91,7 @@ namespace BupaAcibadem.WebApi.Controllers
         }
 
         [HttpPut("Update")]
-        ///içiboş
+        
         public IActionResult Update(SigortaEttiren sm)
         {
 
@@ -101,12 +100,12 @@ namespace BupaAcibadem.WebApi.Controllers
 
             try
             {
-
+               ok= bll.Update(sm);
             }
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
@@ -133,14 +132,14 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 
 
 
 
-            ///return bad request
+            
         }
 
 

@@ -59,8 +59,7 @@ namespace SigortaWeb
         }
         UrunModel GetUrun(int id)
         {
-            //saçma bir yapı oldu tüm verileri getirip veriler üzerinden arama yapmak yerine veritabanında
-            //direkt istediğimiz parametreye uygun veri getirmeliyiz json dönüştürme işlemlerine bak
+            
             string url = "api/Prim/Urun?id="+id.ToString();
             UrunModel um = new UrunModel();
             using (var client = new HttpClient())

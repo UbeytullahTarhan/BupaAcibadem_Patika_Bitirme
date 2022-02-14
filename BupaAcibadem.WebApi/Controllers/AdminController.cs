@@ -28,7 +28,7 @@ namespace BupaAcibadem.WebApi.Controllers
             catch (Exception)
             {
 
-                throw;
+                return BadRequest();
             }
 
 

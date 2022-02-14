@@ -19,15 +19,15 @@
             
         <div class="col">
     <label>Tc Kimlik No:</label>
-      <asp:TextBox ID="txtSETc" runat="server"  CssClass="form-control"  placeholder="Tc Kimlik No"></asp:TextBox>
+      <asp:TextBox ID="txtSETc" runat="server" required="true"  CssClass="form-control"  placeholder="Tc Kimlik No"></asp:TextBox>
   </div>
   <div class="col">
     <label>Adı:</label>
-      <asp:TextBox ID="txtSEAdi" runat="server"  CssClass="form-control" placeholder="Adı"></asp:TextBox>
+      <asp:TextBox ID="txtSEAdi" runat="server" required="true"  CssClass="form-control" placeholder="Adı"></asp:TextBox>
   </div>
              <div class="col">
     <label>Soyadı :</label>
-      <asp:TextBox ID="txtSESoyadı"  runat="server" CssClass="form-control" placeholder="Soyadı"></asp:TextBox>
+      <asp:TextBox ID="txtSESoyadı"  runat="server" required="true" CssClass="form-control" placeholder="Soyadı"></asp:TextBox>
   </div>
         </div>
 
@@ -35,7 +35,7 @@
    
     <div class="col">
     <label>Cinsiyet:</label>
-      <asp:DropDownList ID="DropDownCinsiyet" CssClass="form-control" runat="server">
+      <asp:DropDownList ID="DropDownCinsiyet" required="true" CssClass="form-control" runat="server">
           <asp:ListItem Value="">Seçiniz</asp:ListItem>  
             <asp:ListItem>Erkek</asp:ListItem>  
             <asp:ListItem>Kadın</asp:ListItem>
@@ -44,11 +44,11 @@
   </div>
     <div class="col">
     <label>Doğum Tarihi:</label>
-      <asp:TextBox ID="txtSEDogumTarihi" TextMode="Date"  runat="server" CssClass="form-control" placeholder="yyyy-aa-gg"></asp:TextBox>
+      <asp:TextBox ID="txtSEDogumTarihi" TextMode="Date" required="true" runat="server" CssClass="form-control" placeholder="yyyy-aa-gg"></asp:TextBox>
         </div>
         <div class="col">
     <label>Telefon:</label>
-      <asp:TextBox ID="txtSETelefon"  runat="server" TextMode="Phone" CssClass="form-control" placeholder="Telefon"></asp:TextBox>
+      <asp:TextBox ID="txtSETelefon"  runat="server" required="true" TextMode="Phone" CssClass="form-control" placeholder="Telefon"></asp:TextBox>
   </div>
     </div>
 
@@ -56,7 +56,7 @@
     
     <div class="col">
     <label>Eposta:</label>
-      <asp:TextBox ID="txtSEEposta"   runat="server" TextMode="Email" CssClass="form-control"  placeholder="Eposta"></asp:TextBox>
+      <asp:TextBox ID="txtSEEposta" required="true"  runat="server" TextMode="Email" CssClass="form-control"  placeholder="Eposta"></asp:TextBox>
   </div>
     <div class="col">
     <label>Ülke:</label>
@@ -64,7 +64,7 @@
   </div>
     <div class="col">
     <label >Adres:</label>
-      <asp:TextBox ID="txtSEAdres"  runat="server" CssClass="form-control" placeholder="Adres"></asp:TextBox>
+      <asp:TextBox ID="txtSEAdres"  required="true" runat="server" CssClass="form-control" placeholder="Adres"></asp:TextBox>
   </div>
   </div>
 
